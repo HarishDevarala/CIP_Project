@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CIP</string>
+    <string name="user_name">Name</string>
+    <string name="userid">Email</string>
+    <string name="registerNumber">Register Number</string>
+    <string name="userPhoneNumber">Phone Number</string>
+    <string name="userPassword">Password</string>
+    <string name="alreadyUser">Already User</string>
+    <string name="login">Log In</string>
+    <string name="userCGPA">CGPA</string>
+    <string name="newUser">Register</string>
+    <string name="register">Register</string>
+    <string name="profile">Profile</string>
+    <string name="internships">Internships</string>
+    <string name="placements">Placements</string>
+    <string name="offers">Offers</string>
+    <string name="students_details">Students Details</string>
+    <string name="navigation_drawer_open">Open Navigation drawer</string>
+    <string name="navigation_drawer_close">Close Navigation drawer</string>
+
+
+</resources>

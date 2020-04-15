@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+        />
+        <item
+        android:id="@+id/placements"
+        android:title="@string/placements"
+        />
+        <item
+        android:id="@+id/Internships"
+        android:title="@string/internships"
+        />
+        <item
+        android:id="@+id/offers"
+        android:title="@string/offers"
+        />
+        <item
+        android:id="@+id/students_details"
+        android:title="@string/students_details"
+        />
+    </group>
+
+</menu>
